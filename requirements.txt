@@ -4,3 +4,4 @@ numpy
 matplotlib
 seaborn
 streamlit-folium
+earthengine-api

@@ -1,6 +1,6 @@
 import streamlit as st
 import ee
-import ee.mapclient
+#import ee.mapclient
 import folium
 from datetime import datetime
 import numpy as np
